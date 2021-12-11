@@ -1,2 +1,2 @@
 # proof-of-concept
-Projet de développement de preuve de concept.
+Preuve de concept : déplacements d'un avatar dans un jeu 2D.
